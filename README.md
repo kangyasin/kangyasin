@@ -4,7 +4,10 @@
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=kang-music&theme=dracula)](https://github.com/kangyasin/kang-music)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=kang-resep&theme=dracula)](https://github.com/kangyasin/kang-resep)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=gic-mobile&theme=gruvbox)](https://github.com/kangyasin/gic-mobile)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=server-api&theme=gruvbox)](https://github.com/kangyasin/server-api)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=client-api&theme=gruvbox)](https://github.com/kangyasin/client-api)
+
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=gic-mobile&theme=dracula)](https://github.com/kangyasin/gic-mobile)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=gic-api&theme=dracula)](https://github.com/kangyasin/gic-api)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=laravel-ecommerce&theme=highcontrast)](https://github.com/kangyasin/laravel-ecommerce)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=berita-indonesia&theme=dracula)](https://github.com/kangyasin/berita-indonesia)
