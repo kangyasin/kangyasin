@@ -2,6 +2,9 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kangyasin&show_icons=true&theme=radical)
 
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=laravel-api-bni&theme=dracula)](https://github.com/kangyasin/laravel-api-bni)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=laravel-flip&theme=dracula)](https://github.com/kangyasin/laravel-flip)
+
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=kang-music&theme=dracula)](https://github.com/kangyasin/kang-music)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=kang-resep&theme=dracula)](https://github.com/kangyasin/kang-resep)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=kangyasin&repo=server-api&theme=gruvbox)](https://github.com/kangyasin/server-api)
